@@ -1,1 +1,19 @@
+# Base de données locale
+rencontre.db
+
+# Environnement virtuel
 venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Variables d'environnement
+.env
